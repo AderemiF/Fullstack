@@ -1,0 +1,3 @@
+# Organization
+
+The project will be organized by ...
